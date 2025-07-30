@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **AI and Full-stack development**
 - 📫 Reach me: **sahid.dev@proton.me**
+- ✨ Currently Learning: NestJS, React.js, Node.js.
 
 ---
 

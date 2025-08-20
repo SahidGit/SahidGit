@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahid Sarfaraz</h1>
+ki<h1 align="center">Hi 👋, I'm Sahid Sarfaraz</h1>
 <h3 align="center">Full-Stack Developer | CS Graduate Student</h3>
 
 - 🌱 I’m currently learning **AI and Full-stack development**
@@ -28,6 +28,5 @@
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
